@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class Infinity {
+public class PoliceAndThiefGame {
 	int cash = 10000;
 	int level2 = cash-680;
 	int level3 = cash-900;
